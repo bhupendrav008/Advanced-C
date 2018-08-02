@@ -24,3 +24,20 @@ https://www.youtube.com/watch?v=vFv_-ykLppo
 https://github.com/pseudomuto/c-data-structures
 https://www.youtube.com/watch?v=JkuydQlN2nE
 https://www.youtube.com/watch?v=kz2lQdYXsKE
+
+https://www.youtube.com/watch?v=ZoDRVBdqegY
+https://www.youtube.com/watch?v=2bYGoOTXrUg
+https://www.youtube.com/watch?v=7TSPch57gVk
+
+Linux
+https://www.youtube.com/watch?v=pAWrgEObYjk
+https://www.youtube.com/user/TongLaiYu/videos
+https://www.youtube.com/watch?v=DZ0-GMtOtEc
+https://www.youtube.com/user/packt1000/videos
+
+https://www.youtube.com/watch?v=GXXE42bkqQk
+https://www.youtube.com/watch?v=ynCc-v0K-do
+
+Typedef structure
+https://stackoverflow.com/questions/9749943/how-to-make-a-structure-extern-and-define-its-typedef
+https://stackoverflow.com/questions/26813097/how-do-i-typedef-an-implementation-defined-struct-in-a-generic-header
